@@ -1,0 +1,19 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+
+# Docker
+*.pid

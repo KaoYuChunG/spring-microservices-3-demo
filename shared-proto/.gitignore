@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Protobuf Generated Code (if you want to exclude)
+*.pb.go
+*.pb.cc
+*.pb.h
+*.pb.js
+*.pb.ts
+
+# Docker
+*.pid

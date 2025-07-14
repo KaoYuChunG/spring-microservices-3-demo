@@ -21,7 +21,6 @@ The technologies used in this project are:
 - Keycloak
 - Grafana Stack (Prometheus, Grafana, Loki and Tempo)
 - API Gateway using Spring Cloud Gateway MVC
-- Kubernetes
 
 
 ## Application Architecture
